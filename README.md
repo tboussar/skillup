@@ -24,10 +24,17 @@ debug:
 import pdb; pdb.set_trace()
 ```
 -----------------------------------------------------------------
+
 https://uptimerobot.com/
+
 -----------------------------------------------------------------
+## HTML
+
 creation de html emmet
+
 jsbin.com
+
 specificty calculator pour priorité dans css
+
 flexbox / flexbox froggy
 -----------------------------------------------------------------
