@@ -1,8 +1,9 @@
 # skillup
 formation semaine du 09/07/2018
 
-allyouneediscode
 -----------------------------------------------------------------
+## Git
+
 ```bash
 …or create a new repository on the command line
 echo "# skillup" >> README.md
@@ -19,11 +20,12 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ```
 -----------------------------------------------------------------
-debug:
+## Debug:
 ```python
 import pdb; pdb.set_trace()
 ```
 -----------------------------------------------------------------
+## Test WebSite
 
 https://uptimerobot.com/
 
