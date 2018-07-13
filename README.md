@@ -1,4 +1,4 @@
-# skillup
+# Skillup
 formation semaine du 09/07/2018
 
 -----------------------------------------------------------------
@@ -39,5 +39,7 @@ jsbin.com
 specificty calculator pour priorité dans css
 
 flexbox / flexbox froggy
+
+bootstrap
 
 -----------------------------------------------------------------
